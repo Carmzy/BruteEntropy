@@ -35,4 +35,8 @@ And possibly...
 — https://github.com/ohmybahgosh/RockYou2021.txt
 
 ## Usage
-Very simple, input all the required parameters for testing. Currently, this open-source project is in development...
+Very simple, input all the required parameters for testing. Currently, this open-source project is in development. The inputs given are as follows:
+- True total number of characters the password have.
+- initial characters of the true password.
+- Wordlist full file path.
+- One-way SHA-1.
