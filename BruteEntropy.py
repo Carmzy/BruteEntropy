@@ -52,7 +52,7 @@ def sorter_1():
     chars_list.sort(key=lambda x: x[1], reverse=True)
     return char_list, chars_list
 
-# Step 2: Sets the initial KL diverge based on fed initial characters...
+# Step 2: Sets the initial KL divergence based on fed initial characters...
 def sorter_2():
     global word_list
     char_list, chars_list = sorter_1()
