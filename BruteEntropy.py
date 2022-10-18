@@ -20,7 +20,7 @@
 ## OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 ## SOFTWARE.
 ##
-## Do not copy this program if you don't know what your'e doing...
+## Don't copy this program if you don't know what your'e doing...
 
 from itertools import *
 from decimal import *
