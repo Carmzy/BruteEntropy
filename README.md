@@ -7,12 +7,22 @@ A password bruteforce attack by comparing probability distributions. Note that t
 ## Dependencies
 If possible that you don't have any of these common libraries, then install them. This relies on accurate calculations that is why we need decimal to control floating point numbers and integers...
 
-|Python Library| Installation Commands |
-|-------------:|-----------------------|
-| **Itertools**| pip install itertools |
-|   **decimal**| pip install decimal   |
-|      **math**| pip install math      |
-|   **hashlib**| pip install hashlib   | 
+**Itertools**
+```
+pip install itertools
+```
+**decimal**
+```
+pip install decimal
+```
+**math**
+```
+pip install math
+```
+**hashlib**
+```
+pip install hashlib
+```
 
 ## References
 Use datasets available online and try to merge them to a single text where this program will loop into. The most accessible one is located in your own local computer (***C:\Users\USER_NAME\AppData\Local\Google\Chrome\User Data\ZxcvbnData***). I don't know why Google Chrome has it's own password lists but you can play with it. You can also use other websites such as:
